@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+
 f=open('blackuser','a+')
 u=open('userlist','w')
 u.write('hsggj 123456'+'\n' 'jack 111')
